@@ -1,2 +1,2 @@
 # coursera-test
-This is a JH U coursera Youtube course
+This is a JH U coursera course
